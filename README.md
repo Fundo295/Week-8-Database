@@ -31,3 +31,5 @@ System users with roles (admin, doctor, receptionist)
 | `Medications`     | Medication names and descriptions              |
 | `Prescriptions`   | Linked to appointments and medications         |
 | `Doctor_Schedule` | Weekly working hours for each doctor           |
+
+# ERD For Clinic booking db
