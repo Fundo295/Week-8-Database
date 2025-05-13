@@ -1,6 +1,6 @@
-# Week-8-Database
-#Clinic Booking System - MySQL Database#
-#📌 Overview#
+
+# Clinic Booking System - MySQL Database#
+# 📌 Overview #
 This is a simple and complete MySQL database project designed for managing a clinic booking system. It includes functionalities to handle:
 
 Patient records
@@ -17,7 +17,7 @@ Medications and prescriptions
 
 System users with roles (admin, doctor, receptionist)
 
-#Database Structure#
+# Database Structure #
 
 | Table Name        | Description                                    |
 | ----------------- | ---------------------------------------------- |
